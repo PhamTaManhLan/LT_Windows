@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\Tuan7.exe.config
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\Tuan7.exe
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\Tuan7.pdb
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.Form1.resources
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.csproj.Up2Date
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.exe
+C:\Users\ASUS\source\repos\KT.Giữa kỳ\Tuan7\obj\Debug\Tuan7.pdb
